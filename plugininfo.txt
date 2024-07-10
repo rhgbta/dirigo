@@ -1,0 +1,64 @@
+<plugin>
+
+<pluginname>dirigo</pluginname>
+
+<globalstat><label>Culture</label><initialvalue>0</initialvalue></globalstat>
+
+<playerstat><label>VP</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Coins</label><initialvalue>0</initialvalue></playerstat>
+
+
+
+<deckzone>
+     <label>Deck</label>
+     <gamezonetoloadto>Deck</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+
+
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Discard</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+
+<gamezone>
+     <label>Techs</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Leaders</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+
+
+
+
+
+<generalfunction><label>Draw card</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
+<cardfunction><label>Turn Over</label><kind>TURNOVER</kind></cardfunction>
+<cardfunction><label>Damage-1</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Damage+1</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Pass-1</label><kind>REMOVECOUNTERGREEN</kind><color>green</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Pass+1</label><kind>ADDCOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>.75</PositionX><PositionY>.04</PositionY></cardfunction>
+
+<cardfunction><label>Shield-1</label><kind>REMOVECOUNTERBLUE</kind><color>blue</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Shield+1</label><kind>ADDCOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton><PositionX>.9</PositionX><PositionY>.04</PositionY></cardfunction>
+
+
+</plugin>
