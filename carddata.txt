@@ -1,0 +1,113 @@
+Name	Set	ImageFile
+Workers	Main	workers.png
+Barracks	Main	barracks.png
+Walls	Main	walls.png
+Museum	Main	museum.png
+Laboratory	Main	laboratory.png
+Horseback Archers	Main	horsebackarchers.png
+Pikemen	Main	pikemen.png
+Cannon	Main	cannon.png
+Monument	Main	monument.png
+Baby Boom	Main	babyboom.png
+Rage	Main	rage.png
+Crisis Research	Main	crisisresearch.png
+Masterpiece	Main	masterpiece.png
+Happy Workers	Main	happyworkers.png
+Epic Poem	Main	epicpoem.png
+Usurpation	Main	usurpation.png
+Brilliant Leadership	Main	brilliantleadership.png
+A New Age	Main	anewage.png
+Holy War	Main	holywar.png
+Scientific Revolution	Main	scientificrevolution.png
+Humanitarian Effort	Main	humanitarianeffort.png
+Renewed Aggression	Main	renewedaggression.png
+Science Fair	Main	sciencefair.png
+Pact	Main	pact.png
+The Great Library	Main	thegreatlibrary.png
+Triumphal Arches	Main	triumphalarches.png
+Museum of Natural History	Main	museumofnaturalhistory.png
+Scouts	Main	scouts.png
+Barons	Main	barons.png
+Wealth	Main	wealth.png
+Hospital	Main	hospital.png
+Palace	Main	palace.png
+Knights	Main	knights.png
+Defection	Main	defection.png
+Intimidation	Main	intimidation.png
+Garrison	Main	garrison.png
+Tax	Main	tax.png
+Prosperity	Main	prosperity.png
+Mill	Main	mill.png
+Lumber Yard	Main	lumberyard.png
+Refugees	Main	refugees.png
+Swindlers	Main	swindlers.png
+"Barbara, Keeper of the Lantern"	Main	barbarakeeperofthelantern.png
+Beowulf	Main	beowulf.png
+"Angela, the Winged Deity"	Main	angelathewingeddeity.png
+Dark Age	Main	darkage.png
+Ambush	Main	ambush.png
+A Great Victory	Main	agreatvictory.png
+Shelter	Main	shelter.png
+Town Hall	Main	townhall.png
+Risen from the Ashes	Main	risenfromtheashes.png
+Science Race	Main	sciencerace.png
+Apprentice	Main	apprentice.png
+Militia	Main	militia.png
+Research	Main	research.png
+Raid	Main	raid.png
+Theatre	Main	theatre.png
+Major Breakthrough	Main	majorbreakthrough.png
+National Identity	Main	nationalidentity.png
+Desecrate	Main	desecrate.png
+Panarama	Main	panarama.png
+Long Winter	Main	longwinter.png
+Healers	Main	healers.png
+Genghis Khan	Leader	genghiskhan.png
+Hannibal of Carthage	Leader	hannibalofcarthage.png
+Cleopatra	Leader	cleopatra.png
+Qu Yuan	Leader	quyuan.png
+Plato	Leader	plato.png
+Ewuare the Great	Leader	ewuarethegreat.png
+Nicola Pisano	Leader	nicolapisano.png
+Ibn al-Haytham	Leader	ibnal-haytham.png
+Jasaw Chan K'awiil I	Leader	jasawchankawiili.png
+Leonardo da Vinci	Leader	leonardodavinci.png
+William Shakespeare	Leader	williamshakespeare.png
+Qin Liangyu	Leader	qinliangyu.png
+Tokugawa Tsunayoshi	Leader	tokugawatsunayoshi.png
+Marquis de Lafayette	Leader	marquisdelafayette.png
+Booker T. Washington	Leader	bookertwashington.png
+King Shaka	Leader	kingshaka.png
+Frida Kahlo 	Leader	fridakahlo.png
+Marie Curie	Leader	mariecurie.png
+Primordial Backer	Leader	primordialbacker.png
+Knight the Backer	Leader	knightthebacker.png
+The Tophat Backer	Leader	thetophatbacker.png
+Hipster Backer	Leader	hipsterbacker.png
+Horseback Riding	Tech	horsebackriding.png
+Pottery	Tech	pottery.png
+Navigation	Tech	navigation.png
+Code of Laws	Tech	codeoflaws.png
+Printing Press	Tech	printingpress.png
+Uniform Tactics	Tech	uniformtactics.png
+Sailing	Tech	sailing.png
+Civil service	Tech	civilservice.png
+Infrastructure	Tech	infrastructure.png
+Refracting Telescope	Tech	refractingtelescope.png
+Pendulum Clock	Tech	pendulumclock.png
+Microscope	Tech	microscope.png
+Impressionism	Tech	impressionism.png
+Powered Loom	Tech	poweredloom.png
+Radio	Tech	radio.png
+Combustion Engine	Tech	combustionengine.png
+Pocket Watch	Tech	pocketwatch.png
+Masonry	Tech	masonry.png
+Chivalry	Tech	chivalry.png
+National Army	Tech	nationalarmy.png
+Commercial Hub	Tech	commercialhub.png
+Health Protocols	Tech	healthprotocols.png
+Education	Tech	education.png
+Agriculture	Tech	agriculture.png
+Writing	Tech	writing.png
+Secure Borders	Tech	secureborders.png
+Enlightenment 	Tech	enlightenment.png
