@@ -16,6 +16,20 @@
 </deckzone>
 
 
+<deckzone>
+     <label>Tech</label>
+     <gamezonetoloadto>Techs</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+
+<deckzone>
+     <label>Leader</label>
+     <gamezonetoloadto>Leaders</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+
 
 <gamezone>
      <label>Hand</label>
