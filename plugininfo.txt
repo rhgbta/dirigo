@@ -10,7 +10,7 @@
 
 
 <deckzone>
-     <label>Deck</label>
+     <label>Player Cards</label>
      <gamezonetoloadto>Deck</gamezonetoloadto>
      <shuffle>no</shuffle>
 </deckzone>
@@ -28,6 +28,13 @@
      <gamezonetoloadto>Leaders</gamezonetoloadto>
      <shuffle>no</shuffle>
 </deckzone>
+
+
+<gamezone>
+     <label>Deck</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
 
 
 
