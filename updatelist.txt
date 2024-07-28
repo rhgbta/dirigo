@@ -1,8 +1,8 @@
 Dirigo	07-24-24
-plugins/dirigo/plugininfo.txt	https://raw.githubusercontent.com/rhgbta/dirigo/main/plugininfo.txt	232255
-plugins/dirigo/cardback.jpeg	https://github.com/rhgbta/dirigo/blob/main/cardback.jpeg?raw=true	6209
+plugins/dirigo/plugininfo.txt	https://raw.githubusercontent.com/rhgbta/dirigo/main/plugininfo.txt	240499
+plugins/dirigo/cardback.png	https://github.com/rhgbta/dirigo/blob/main/cardback.png?raw=true	-614347
 plugins/dirigo/sets/carddata.txt	https://raw.githubusercontent.com/rhgbta/dirigo/main/carddata.txt	353485
-plugins/dirigo/pluginpreferences.txt	https://raw.githubusercontent.com/rhgbta/dirigo/main/plugininfo.txt	221236
-plugins/dirigo/updatelist.txt	https://raw.githubusercontent.com/rhgbta/dirigo/main/updatelist.txt	57544
+plugins/dirigo/pluginpreferences.txt	https://raw.githubusercontent.com/rhgbta/dirigo/main/plugininfo.txt	221239
+plugins/dirigo/updatelist.txt	https://raw.githubusercontent.com/rhgbta/dirigo/main/updatelist.txt	57344
 CardGeneralURLs:
 https://raw.githubusercontent.com/rhgbta/dirigo/main/

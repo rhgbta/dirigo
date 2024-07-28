@@ -3,6 +3,7 @@
 <pluginname>dirigo</pluginname>
 
 <globalstat><label>Culture</label><initialvalue>0</initialvalue></globalstat>
+<globalstat><label>Culture Modifier</label><initialvalue>0</initialvalue></globalstat>
 
 <playerstat><label>VP</label><initialvalue>0</initialvalue></playerstat>
 <playerstat><label>Coins</label><initialvalue>0</initialvalue></playerstat>

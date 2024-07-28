@@ -47,7 +47,7 @@
 <bindingmain15>CTRL+SHIFT+s</bindingmain15>
 <bindingmain18>SHIFT+META+t</bindingmain18>
 <bindingmain19>CTRL+r</bindingmain19>
-<bindinggeneral0>META+m</bindinggeneral0>
+<bindinggeneral0>CTRL+d</bindinggeneral0>
 <bindinggeneral1>META+r</bindinggeneral1>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
@@ -62,7 +62,7 @@
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
-<scalefactor>1.000000</scalefactor>
+<scalefactor>0.400000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
 <isdownloadallmissing>1</isdownloadallmissing>
